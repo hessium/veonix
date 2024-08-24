@@ -24,3 +24,14 @@
 }
 
 
+@font-face {
+    font-family: 'Muller Medium';
+    src: url('MullerMedium.eot');
+    src: local('Muller Medium'), local('MullerMedium'),
+    url('MullerMedium.eot?#iefix') format('embedded-opentype'),
+    url('MullerMedium.woff2') format('woff2'),
+    url('MullerMedium.woff') format('woff'),
+    url('MullerMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
